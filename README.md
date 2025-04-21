@@ -42,4 +42,7 @@ A **Java Spring Boot Microservices**-based patient management system designed wi
 ---
 
 ## 📁 Project Structure (Simplified)
+![Screenshot from 2025-04-17 21-37-18](https://github.com/user-attachments/assets/51dba250-1fa8-4b49-9efb-ae145c952e24)
+
+![Screenshot from 2025-04-17 21-37-31](https://github.com/user-attachments/assets/1c7cbe3e-9ff4-4d38-aec1-e777b82dbe64)
 
